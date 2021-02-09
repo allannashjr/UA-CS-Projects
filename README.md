@@ -15,9 +15,25 @@ P1.cpp - Project to Output a Receipt
 
 // Computer Science 2 - Spring 2020
 
+AA.cpp - Assignment to Delete Duplicates and Display the Amount of Duplicates
+
+AH.cpp and reviewsWindows.txt - Assignment to Output the Reviews from a Text File
+
 P2.cpp - Project to Display and Manage Various Computer Labs
 
+
 // Data Structures - Fall 2020
+
+DSA1.cpp and TestData.txt - Assignment to Output and Add Various Cities and Their Coordinates
+
+DSA2.cpp Dictionary.txt - Assignment to Output the Word Ladder of Two Inputted Words
+
+DSA3.cpp and functions.h - Assignment to Create and Display a Binary Search Tree 
+
+DSA4.cpp - Assignment to Output the Timings of Various Sorting Methods
+
+DSA5.cpp and A5File.txt - Assignment to Output the User's Followers and Their Following Path
+
 
 // Internet Systems Programming - Fall 2020
 
