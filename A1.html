@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+    <head>
+		<meta charset = "utf-8">
+		<link href = "css/main.css"	rel = "stylesheet" type = "text/css">	
+		<title>Allan Nash Jr's ISP Project #1</title>
+    </head>
+    <body style = "background-color: darkorange;">	
+		<!-- This Part is for the Image Parts -->
+		<div id = "contentContainer">
+			<img id = "thing" src = "BLogo.png">
+		
+		
+			<!-- This Part is for the Wording Parts -->
+			<h1>Allan Nash Jr.</h1>
+			<h1>ISP Project #1</h1>
+			<h1>Project Finished: 09/28/2020 11:59pm</h1>
+			<br>
+			<p>This WebPage was Made to Learn Different Functions in HTML, CSS, and JavaScript</p>
+			<p>By Clicking on the Buttons, the Current Date/Time and Answer for (!N) Will be Given</p>
+			<p>By Clicking on the Image, the Image with Follow the Cursor</p>
+			<p>Lastly, a Video Showing How the WebPage Works Has Been Inserted</p>
+			<br>
+		
+			<!-- This Part is for the Browswer Data Parts -->
+			<p id = "BrowserName"></p>
+			<script>
+				document.getElementById("BrowserName").innerHTML = "Browser Being Used: " + navigator.appCodeName;
+			</script>
+			<p id = "BrowserVersion"></p>
+			<script>
+				document.getElementById("BrowserVersion").innerHTML = "Browser ID: " + navigator.appVersion;
+			</script>
+			<br>
+		
+			<!-- This Part is for the Current Date Parts -->	
+			<button type = "button"
+				onclick = "document.getElementById('GettingDate').innerHTML = Date()">
+				Click Here to Display the Current Date/Time
+			</button>
+			<p style = "color: black; font-size: 15px; text-align: left; font-weight: bold;"> 
+				The Current Date/Time = 
+			</p>
+			<p id = "GettingDate" style = 
+				"color: black; font-size: 15px; text-align: left; font-weight: bold;"> 
+			</p>
+			<br>
+		
+			<!-- This Part is for the Factorial Parts -->
+			<button type = "button"
+				onclick = "document.getElementById('GettingFact').innerHTML = GetFact()"> 
+				Click Here to Display the Factorial of N
+			</button> 
+			<p style = "color: black; font-size: 15px; text-align: left; font-weight: bold;"> The Factorial of N = 
+			</p>
+			<p id = "GettingFact" style = 
+            "color: black; font-size: 15px; text-align: left; font-weight: bold;"> 
+			</p>
+			<script src = "js/main.js"></script>
+			<br>
+		
+			<!-- This Part is for the Video Parts -->
+			<video width = "350" height = "250" controls>
+			<source src = "Video.mp4" type = "video/mp4">
+			Your Browser Does Not Support the Video Tag.
+			</video>
+		
+			<script src="//www.kirupa.com/prefixfree.min.js"></script>
+			<script src = "js/imageMover.js"></script>wwwwwwwwwwwwwwwwwwwwwweeeee
+		</div>		
+    </body>
+</html>
