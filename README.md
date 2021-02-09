@@ -5,15 +5,17 @@ Repository of Various Projects Completed at the University of Akron
 
 A5.cpp - Assignment to Determine if an Inputted Number is Prime or Not
 
-A7.cpp - Assignment to Determine Different Stat's, A8.cpp
+A7.cpp - Assignment to Determine Different Stat's
 
-A8.txt - Assignment to Convert Inputted String(s) to Pig Latin
+A8.cpp and A8.txt - Assignment to Convert Inputted String(s) to Pig Latin
 
 P1.cpp - Project to Output a Receipt
 
 
 
 // Computer Science 2 - Spring 2020
+
+P2.cpp - Project to Display and Manage Various Computer Labs
 
 // Data Structures - Fall 2020
 
