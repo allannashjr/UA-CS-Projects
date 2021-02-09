@@ -37,6 +37,13 @@ DSA5.cpp and A5File.txt - Assignment to Output the User's Followers and Their Fo
 
 // Internet Systems Programming - Fall 2020
 
+A1.html - Assignment to Introduce How to Code in HTML
+
+calc.php, calc.java, calc.jsp, and calc2.java - Assignment to Introduction HTML with CSS/JavaScripts/PHP
+
+books.sql and ZippyBooks.php - Assignment to Introduction PHP with MySQL
+
+
 // Interactive Game Design - Spring 2021
 
 // Computer Graphics - Spring 2021
